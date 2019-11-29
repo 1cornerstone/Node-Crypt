@@ -1,0 +1,19 @@
+{
+  "name": "backend",
+  "version": "1.0.0",
+  "description": "file Encrypting System",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "akindev",
+  "license": "ISC",
+  "dependencies": {
+    "babel": "^6.23.0",
+    "express": "^4.17.1",
+    "express-fileupload": "^1.1.6-alpha.6",
+    "http": "0.0.0",
+    "nodemon": "^1.19.4"
+  },
+  "devDependencies": {}
+}
